@@ -10,5 +10,7 @@ public partial class _Default : System.Web.UI.Page
     protected void Page_Load(object sender, EventArgs e)
     {
   int a1=0;
+int a2=9;
+
     }
 }
